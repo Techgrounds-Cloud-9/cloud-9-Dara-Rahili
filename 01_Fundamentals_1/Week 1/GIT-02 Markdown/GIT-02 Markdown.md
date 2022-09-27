@@ -1,54 +1,35 @@
-# Git and GitHub
+# Git and Markdown
 
-### On GitHub, I can share a project with my colleagues or anyone else on the web. We can work simultaneously on the project on our systems or on the platform and frequently update the results without missing anything. All our steps of work are saved and we can retrieve our previous stage of work easily.
+### Create a document with VS Code.
 ---
 ## Key terminology
 
 
-1. DevOps tool
-2. Source Code Management
-3. Open-Source
-4. Repository: A repository contains all of your project's files and each file's revision history.
-5. Command Line Interface (CLI)
-6. Branch: Branches isolate development work without affecting other branches in the repository.
-7. Commit: A commit records changes to one or more files in your branch.
-8. Push / Pull: The git push command is used to upload local repository content to a remote repository. Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
-9. Merge: Merging is Git's way of putting a forked history back together again.
-10. Fork: A fork is a copy of a repository that you manage. Forks let you make changes to a project without affecting the original repository.
+1. Markup language: Markup language refers to a text-encoding system consisting of a set of symbols inserted in a text document to control its structure, formatting, or the relationship between its parts.
+2. Markdown: Markdown is a plain text formatting syntax aimed at making writing for the internet easier. The philosophy behind Markdown is that plain text documents should be readable without tags mussing everything up, but there should still be ways to add text modifiers like lists, bold, italics, etc.
+3. WYSIWYM: What You See Is What You Mean is a paradigm for editing a structured document. It is an adjunct to the better-known WYSIWYG paradigm, which displays the result of a formatted document as it will appear on screen or in print—without showing the descriptive code underneath.
 
 ---
 
 ## Sources
 
-https://www.youtube.com/watch?v=F9DveOGPd4E&ab_channel=DanielMark
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://www.markdownguide.org/getting-started/
+https://www.makeuseof.com/tag/learning-markdown-write-web-faster/
 
-https://www.datacamp.com/tutorial/git-push-pull
-
-https://www.youtube.com/watch?v=wrb7Gge9yoE&ab_channel=Codecademy
 
 ---
 
 
 ## Overcome Challenges
 
-My main challenge was to understand the main concept of using Git and GitHub and what is the difference. I watch a couple of videos and read about the whole idea. After that I have some problems in using commands in git bash which I googled it and asked my team.
+My main challenge was to insert an image into the markdown file.
+One of my teamates gave a code which works fine but when I googled I found out that I can also easily drag and drop it (shift) into the editor.
 
 ---
 ## Results
 
 
-Created a GitHub account
+I created a markdown file in VS Code and then pushed it into repository.
 
-Created a repository on my GitHub account for my portfolio
-
-Gave permissions to my teammates to use the repository
-
-Pushed my code to my repository
-
-Pulled / Cloned a repository from my peer
-
-Shared this repository with my Learning Coach
-
-![](GitHub%20Porfile.jpg)
-![](My%20first%20note.jpg)
-![](Share%20with%20my%20teamates.jpg)
+![](Markdown.jpg)
