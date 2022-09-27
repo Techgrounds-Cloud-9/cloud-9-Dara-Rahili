@@ -49,3 +49,6 @@ Pulled / Cloned a repository from my peer
 
 Shared this repository with my Learning Coach
 
+![](GitHub%20Porfile.jpg)
+![](My%20first%20note.jpg)
+![](Share%20with%20my%20teamates.jpg)
